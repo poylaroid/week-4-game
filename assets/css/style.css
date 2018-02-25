@@ -1,0 +1,18 @@
+.click{
+    width:80px;
+    height:80px;
+    text-align: center;
+  }
+
+body{
+    text-align: center;
+}
+
+.rules{
+    color: bisque;
+}
+
+.score{
+    float: right;
+    
+}
